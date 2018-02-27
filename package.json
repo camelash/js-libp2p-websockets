@@ -50,6 +50,7 @@
     "multiaddr": "^3.0.2",
     "pre-commit": "^1.2.2",
     "pull-goodbye": "0.0.2",
+    "pull-reader": "^1.2.9",
     "pull-stream": "^3.6.2"
   },
   "contributors": [
